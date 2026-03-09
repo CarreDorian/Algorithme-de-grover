@@ -1,5 +1,5 @@
 Ce projet à été organisé élément par élément (méthode agile). Cela signifie que :
-\- les fichiers test*.py contiennent les implémentations basique des élément
+\t - les fichiers test*.py contiennent les implémentations basique des élément
 \- My_useless_grover.py est la V1. Il retrouve un motif donner en entrée (on lui donne 306, il ressort 306)
 \- My_grover.py est sa V2. Il retrouve également un motif dans une liste (retrouve 306 dans une liste).
 \- My_grover_db.py est sa V3. Il prend en entrée une base de donnée, vectorise les blagues, et retrouve une blague en fonction de sa question.
